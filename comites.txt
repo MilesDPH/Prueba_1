@@ -1,0 +1,23 @@
+commit 29ddae18c0a1c3f5f0bd8dd54160e85a884d1f2c
+Author: Hugo Pedroza <milesdeveloper@hotmail.com>
+Date:   Mon Oct 21 16:39:11 2019 -0500
+
+    agregamos la foto de un perrito
+
+commit 7c9c2c711be643624936bdc23a40f5c796958e0d
+Author: Hugo Pedroza <milesdeveloper@hotmail.com>
+Date:   Mon Oct 21 16:15:08 2019 -0500
+
+    Agregamos a images el archivo image_1.png
+
+commit 2b67137603ca73cfaf8cbc13fb260ccd626d2dd5
+Author: Hugo Pedroza <milesdeveloper@hotmail.com>
+Date:   Mon Oct 21 16:01:56 2019 -0500
+
+    Agregamos un nuevo archivo en styles llamado style.css
+
+commit 0f193354485e8b68da669cdb5ac5a6c14e35a2b6
+Author: Hugo Pedroza <milesdeveloper@hotmail.com>
+Date:   Mon Oct 21 15:47:59 2019 -0500
+
+    iniciamos
